@@ -4,7 +4,7 @@
 
 ## Brief description
     This is Seam Carving Project from course Comp572. The main idea of seam carving is to resize the image but preserve the most interesting/significant 
-    features (subject ratio, etc.)
+    features (subject ratio, etc.). Since scaling would distort the image, and cropping would remove certain features.
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/59798959/185551359-826d9238-09cb-4538-bae2-5f6d1668246c.png)
 
 ## Takeaways:
