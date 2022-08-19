@@ -1,10 +1,8 @@
 # Seam-Carving-Project
-%% Writeups
-% * Video URL
-% <https://youtu.be/aEH4dZyuOts>
-%
-% * Brief description as per instructions
-%{
+## Video URL
+<https://youtu.be/aEH4dZyuOts>
+
+## Brief description as per instructions
     For the energy function I used the gradient magnitude approach mentioned in
     HW4. The idea is that only pixels with gradient magnitude would get
     selected for edge image. So I first use a Gaussian blur filter with sigma=1
@@ -28,5 +26,3 @@
     next seam to be removed. This also helped a lot in my debugging progress.
     I commented for the sake of submission. To view how dynamic shrinking is done, simply
     uncomment lines 230-231, and 250-251.
-%}
-%% Your project code
