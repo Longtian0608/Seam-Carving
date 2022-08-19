@@ -31,3 +31,14 @@
     next seam to be removed. This also helped a lot in my debugging progress.
     I commented for the sake of submission. To view how dynamic shrinking is done, simply
     uncomment lines 230-231, and 250-251.
+
+## Output:
+![Pic1](https://user-images.githubusercontent.com/59798959/185553897-6c4a2a0f-279b-4ae1-adf1-482868817d14.jpg)
+![2](https://user-images.githubusercontent.com/59798959/185553920-7af9eb18-b90d-4950-9662-7716463adc3b.jpg)
+![3](https://user-images.githubusercontent.com/59798959/185553931-48fb4add-5da8-4757-9c54-3264211edaf6.jpg)
+![4](https://user-images.githubusercontent.com/59798959/185553945-b94ed14c-8bf1-4d5c-a8e9-3b99e27f45a9.jpg)
+![Picture5](https://user-images.githubusercontent.com/59798959/185553952-03f5c5e9-6a46-4ed9-846e-12c3362de397.jpg)
+
+
+
+
