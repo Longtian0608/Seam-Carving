@@ -3,6 +3,11 @@
 <https://youtu.be/aEH4dZyuOts>
 
 ## Brief description
+    This is Seam Carving Project from course Comp572. The main idea of seam 
+    carving is to resize the image but preserve the most interesting/significant 
+    features (subject ratio, etc.)
+    <img width="917" alt="Screen Shot 2022-08-19 at 01 43 53" src="https://user-images.githubusercontent.com/59798959/185551227-32ada75c-9a51-4313-bf73-f71968997faa.png">
+
     For the energy function I used the gradient magnitude approach mentioned in
     HW4. The idea is that only pixels with gradient magnitude would get
     selected for edge image. So I first use a Gaussian blur filter with sigma=1
