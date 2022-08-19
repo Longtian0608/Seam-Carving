@@ -2,7 +2,7 @@
 ## Video URL
 <https://youtu.be/aEH4dZyuOts>
 
-## Brief description as per instructions
+## Brief description
     For the energy function I used the gradient magnitude approach mentioned in
     HW4. The idea is that only pixels with gradient magnitude would get
     selected for edge image. So I first use a Gaussian blur filter with sigma=1
