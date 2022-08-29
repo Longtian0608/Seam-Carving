@@ -1,4 +1,4 @@
-# Seam-Carving-Project
+# Comp572 Seam-Carving Project
 ## Video URL
 <https://youtu.be/aEH4dZyuOts>
 
